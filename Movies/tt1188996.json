@@ -1,0 +1,23 @@
+{
+    "moviename ": "My Name Is Khan",
+    "movie time": "2 hours 45 minutes",
+    "Poster URL": "www.imdb.comhttps://m.media-amazon.com/images/M/MV5BOGE3Y2FiMGItYTcyNy00ZmNjLWFkM2ItM2JkYjgyYzllMThkXkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "movie genere": [
+        "Drama",
+        "Romance"
+    ],
+    "Bio": "An Indian Muslim man with Asperger's syndrome takes a challenge to speak to the President of the United States seriously and embarks on a cross-country journey.",
+    "movie director": [
+        "Karan Johar"
+    ],
+    "countries": [
+        "India",
+        "United States",
+        "United Arab Emirates",
+        "Hong Kong"
+    ],
+    "languages": [
+        "Hindi",
+        "English"
+    ]
+}
